@@ -2,7 +2,7 @@
 
 /**
  * main - Program entry point
- * Description: Prints all the base 16 numbers 
+ * Description: Prints all the base 16 numbers in lowercase
  * Return: 0
  */
 int main(void)
