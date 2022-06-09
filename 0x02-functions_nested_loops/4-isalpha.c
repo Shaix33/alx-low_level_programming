@@ -3,7 +3,7 @@
 /**
  * _isalpha - Function prototype
  * Description: Checks if a character is a letter
- *
+ * @c ascii character
  * Return: 1 if it is a letter otherwise 0
  */
 int _isalpha(int c)
