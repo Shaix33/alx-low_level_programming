@@ -1,12 +1,18 @@
 #include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_numbers - Function prototype
+ * Description: Prints the numbers, from 0 to 9, followed by a new line
+ * Return: void
  */
-int main(void)
+void print_numbers(void)
 {
-	print_numbers();
-	return (0);
+	int c;
+
+	for (c = '0'; c <= '9'; c++)
+	{
+		_putchar(c);
+	}
+
+	_putchar('\n');
 }
