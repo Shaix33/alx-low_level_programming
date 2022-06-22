@@ -1,10 +1,11 @@
-include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Program entry point
  * Description: prints the first 50 Fibonacci numbers, starting with 1 and 2
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
