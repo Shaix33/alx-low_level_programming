@@ -27,7 +27,7 @@ int main(void)
 	c1 = c / max;
 	c2 = c % max;
 
-	for (a = 92; a < 99; ++i)
+	for (a = 92; a < 99; ++a)
 	{
 		printf(", %lu", c1 + c2 / max);
 		printf("%lu", c2 % max);
