@@ -5,7 +5,6 @@
  * Description: prints an underscore a number of times specified by n
  * @n: number of times to print
  * Return: void
- *
  */
 
 void print_line(int n)
