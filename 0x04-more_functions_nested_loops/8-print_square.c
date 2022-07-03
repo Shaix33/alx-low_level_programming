@@ -1,27 +1,25 @@
 #include "main.h"
 
 /**
- * print_square: function prototype
- * Description: Prints a square of area size, if size is greater than 0
- * @size: The number of times # character should be printed
+ * print_square - Function prototype
+ * Description: Prints a square of the specified size
+ * @size: the size of the square
  * Return: void
  */
-
 void print_square(int size)
 {
-	int a, b;
+	int r, c;
 
 	if (size <= 0)
 		_putchar('\n');
 	else
 	{
-		for (a = 0; a < size; a++)
+		for (r = 0; r < size; r++)
 		{
-			for (b = 0;b < size; b++)
-				_putchar(35);
+			for (c = 0; c < size; c++)
+				_putchar('#');
 
 			_putchar('\n');
-
 		}
 	}
 }
