@@ -2,3 +2,4 @@
  * [0x00 Hello, World](https://www.geeksforgeeks.org/c-hello-world-program/)
  * [0x01 Variables, if, else, while](https://www.geeksforgeeks.org/variables-in-c/)
  * [0x03-Debugging](https://en.wikipedia.org/wiki/Debugging)
+ * [0x02 Functions, Nested loops](http://www.tutorialspoint.com/cprogramming/c_functions.html/)
