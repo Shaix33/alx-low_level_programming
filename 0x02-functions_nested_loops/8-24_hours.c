@@ -8,10 +8,9 @@ void jack_bauer(void)
 {
 	int x, k;
 
-	while (x < 24)
+	for (x = 0; x < 24; x++)
 	{
-		x = 0;
-		while (k < 59)
+		for (k = 0; k < 59; k++)
 		{
 			_putchar((x / 10) + '0');
 			_putchar((x % 10) + '0');
@@ -19,8 +18,6 @@ void jack_bauer(void)
 			_putchar((k / 10) + '0');
 			_putchar((k % 10) + '0');
 			_putchar(10);
-			k++;
 		}
-		x++;
 	}
 }
