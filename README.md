@@ -3,3 +3,4 @@
  * [0x01 Variables, if, else, while](https://www.geeksforgeeks.org/variables-in-c/)
  * [0x03-Debugging](https://en.wikipedia.org/wiki/Debugging)
  * [0x02 Functions, Nested loops](http://www.tutorialspoint.com/cprogramming/c_functions.html/)
+ * [0x05 Pointers, arrays and strings](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)
