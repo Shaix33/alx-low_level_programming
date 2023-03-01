@@ -18,7 +18,6 @@ void rev_string(char *s)
 		s[z] = s[x];
 		s[x] = str;
 	}
-	
 }
 
 
