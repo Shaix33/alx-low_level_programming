@@ -4,3 +4,6 @@
  * [0x03-Debugging](https://en.wikipedia.org/wiki/Debugging)
  * [0x02 Functions, Nested loops](http://www.tutorialspoint.com/cprogramming/c_functions.html/)
  * [0x05 Pointers, arrays and strings](https://www.javatpoint.com/c-pointers#:~:text=The%20pointer%20in%20C%20language,a%20pointer%20is%202%20byte.)
+* 0x06 More pointers, arrays and strings
+ * 0x04. More functions and nested loops
+ * 0x08-recursion
