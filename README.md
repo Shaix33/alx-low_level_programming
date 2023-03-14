@@ -8,3 +8,4 @@
  * 0x04. More functions and nested loops
  * 0x08-recursion
  * 0x07-pointers, arrays and strings
+ * 0x0B-[Dynamic memory allocation](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
