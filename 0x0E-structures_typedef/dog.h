@@ -1,9 +1,14 @@
 #ifndef DOG_H
 #define DOG_H
-
-typedef struct dog dog;
-
-struct dog{
+/**
+ * struct dog - defines a new object of type dog
+ * description - new type dog
+ * @name: name of dog
+ * @age: age of dog
+ * @owner: owner of the dog
+ */
+struct dog
+{
 	char *name;
 	float age;
 	char *owner;
