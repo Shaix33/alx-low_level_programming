@@ -12,3 +12,4 @@
  * 0x0D-[preprocessor](https://en.wikipedia.org/wiki/Preprocessor#:~:text=In%20computer%20science%2C%20a%20preprocessor,some%20subsequent%20programs%20like%20compilers)
  * 0x0E-[structures_typedef](https://www.w3schools.com/c/c_structs.php)
  * 0x0F-[Function Pointers](https://www.geeksforgeeks.org/function-pointer-in-c/)
+ * 0x10-[variadic functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
