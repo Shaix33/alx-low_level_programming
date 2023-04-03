@@ -14,3 +14,4 @@
  * 0x0F-[Function Pointers](https://www.geeksforgeeks.org/function-pointer-in-c/)
  * 0x10-[variadic functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
 ## <ins> 0x12-[singly linked lists](https://www.geeksforgeeks.org/what-is-linked-list/)</ins>
+ * 0x09-[static libraries](https://docencia.ac.upc.edu/FIB/USO/Bibliografia/unix-c-libraries.html)
